@@ -1,0 +1,17 @@
+/__pycache__/
+/.ipynb_checkpoints/
+/.vscode/
+/config/
+dags/__pycache__/
+dags/clima_dag.py
+/destination_folders/
+/dolarVenv/
+/logs/
+/plugins/
+terminal/__pycache__/
+terminal/clima.py
+.env
+docker-compose.yaml
+Draft_scrapper_dolar.ipynb
+postgres_conexion.txt
+scrapper-dolar.odt
